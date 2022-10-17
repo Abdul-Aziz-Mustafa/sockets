@@ -1,5 +1,0 @@
-
-cliet_socket_ip:- 122.127.0.0
-cliet_socket:- 33515
-cliet_socket_ip:- 28.127.0.0
-cliet_socket:- 53145
