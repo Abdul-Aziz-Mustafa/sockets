@@ -1,0 +1,3 @@
+
+cliet_socket_ip:- 52.127.0.0
+cliet_socket:- 45371
